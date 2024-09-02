@@ -20,14 +20,14 @@ I’m a passionate **Flutter Developer** with over 2 years of experience buildin
 
 ## 📈 My Projects
 
-### 🚀 [Trading App](https://github.com/yourrepo)
+### 🚀 [Trading App](https://bit.ly/VenturaApp)
 A comprehensive trading platform built with Flutter, featuring real-time data visualization with custom WebSocket integration.
 
-### 🛒 [E-commerce App](https://github.com/yourrepo)
-An e-commerce application with user-friendly UI/UX, allowing artists to sell and auction their artwork online.
+### 🛒 [Furniture App](https://github.com/harshil-patel-dev/furniture_app)
+An  furniture application with user-friendly UI that allows users to sell and but their furniture online.
 
-### 📝 [Social Media App](https://github.com/yourrepo)
-A FinTech-focused social media app with secure user authentication and seamless integration of third-party services.
+<!-- ### 📝 [Social Media App](https://github.com/yourrepo)
+A FinTech-focused social media app with secure user authentication and seamless integration of third-party services. -->
 
 
 ## 📊 GitHub Stats
