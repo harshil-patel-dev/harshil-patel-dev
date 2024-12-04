@@ -20,7 +20,9 @@ I’m a passionate **Flutter Developer** with over 2 years of experience buildin
 
 ## 📈 My Projects
 
-### 🚀 [Trading App](https://bit.ly/VenturaApp)
+### 🚀 [Trading App]
+Android : https://bit.ly/VenturaApp
+iOS : https://bit.ly/Ventura-iOS
 A comprehensive trading platform built with Flutter, featuring real-time data visualization with custom WebSocket integration.
 
 ### 🚀 [Slashon](https://slashon.agency)
