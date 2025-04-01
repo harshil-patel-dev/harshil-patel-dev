@@ -35,7 +35,7 @@ A Design and Marketing Agency Website build using ReactJs and Tailwind-UI. It sh
 
 FinTrack is a modern, full-featured web application designed to help users track, analyze, and optimize their personal finances. Built with React, TypeScript, and Supabase, this platform offers a comprehensive suite of financial management tools.
 
-#!! Flutter app in production !!
+<h3>!! Flutter app in production !!</h3>
 
 ## Key Features
 
@@ -54,6 +54,7 @@ FinTrack is a modern, full-featured web application designed to help users track
 - Supabase Authentication
 - Recharts for Data Visualization
 - Shadcn UI Components
+- Flutter for Mobile app
 
 Empower your financial journey with FinTrack – your all-in-one personal finance companion.
 
