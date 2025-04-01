@@ -2,7 +2,7 @@
 
 I’m a passionate **Flutter Developer** with over 2 years of experience building high-performance mobile applications for Android, iOS and Web. My focus is on writing clean, maintainable code and creating seamless, intuitive user experiences. I also have experience in FinTech and have worked on various complex projects, from trading platforms to social media apps.
 
-- 🔭 I’m currently working on [Stock trading app.](https://bit.ly/VenturaApp)
+- 🔭 I’m currently working on [Personal Finance App](https://bit.ly/fin-track-india)
 
 - 🌱 I’m currently learning **MERN Stack**
 
