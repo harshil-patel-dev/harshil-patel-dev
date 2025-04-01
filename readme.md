@@ -31,6 +31,32 @@ A comprehensive trading platform built with Flutter, featuring real-time data vi
 
 A Design and Marketing Agency Website build using ReactJs and Tailwind-UI. It showcases the agency's services, projects, and brand identity.
 
+### 🚀 [Fin-Track](https://bit.ly/fin-track-india) : Comprehensive Personal Finance Management Platform
+
+FinTrack is a modern, full-featured web application designed to help users track, analyze, and optimize their personal finances. Built with React, TypeScript, and Supabase, this platform offers a comprehensive suite of financial management tools.
+
+## Key Features
+
+- 📊 Personal Finance Dashboard
+- 💰 Investment Portfolio Tracking
+- 📈 Performance Analytics
+- 💳 Multi-Asset Management
+- 🏦 Bank & Crypto Exchange Integrations
+- 📅 Budget Planning
+- 💡 Investment Scenario Backtesting
+
+## Technologies
+
+- React & TypeScript
+- Tailwind CSS
+- Supabase Authentication
+- Recharts for Data Visualization
+- Shadcn UI Components
+
+Empower your financial journey with FinTrack – your all-in-one personal finance companion.
+
+
+
 ### 🛒 [Furniture App](https://github.com/harshil-patel-dev/furniture_app)
 
 An furniture application with user-friendly UI that allows users to sell and but their furniture online.
