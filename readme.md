@@ -24,6 +24,7 @@ I’m a passionate **Flutter Developer** with over 2 years of experience buildin
 
 Android : https://bit.ly/VenturaApp <br>
 iOS : https://bit.ly/Ventura-iOS <br>
+Web : https://invest.venturasecurities.com <br>
 
 A comprehensive trading platform built with Flutter, featuring real-time data visualization with custom WebSocket integration.
 
